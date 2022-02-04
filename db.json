@@ -1,0 +1,64 @@
+{
+    "adoptions" : [
+        {
+            "name": "Luke",
+            "description": "Cachorro de 3 meses, juguetón y muy bueno...",
+            "img":  "https://cdn.pixabay.com/photo/2017/09/25/13/12/cocker-spaniel-2785074_1280.jpg",
+            "animal": "dog"
+        },
+        {
+            "name": "Simba",
+            "description": "Sima tiene 3 años. Le encanta jugar con sus juguetes y dormir a tu lado",
+            "img":  "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462_1280.jpg",
+            "animal": "cat"
+        },
+        {
+            "name": "Golfo",
+            "description": "Cachorro, de unos 3 meses, mezcla de labrador. Le encanta jugar con las pelotas.",
+            "img":  "https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313_1280.jpg",
+            "animal": "dog"
+        },
+        {
+            "name": "Catón",
+            "description": "Catón es un gatito de unos 3-4 meses, hace poco que llegó a nuestra protectora. Es independiente y muy inteligente",
+            "img":  "https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_1280.jpg",
+            "animal": "cat"
+        },
+        {
+            "name": "Lola",
+            "description": "Una de nuestras veteranas. Ama salir a pasear cuando está lloviendo",
+            "img":  "https://cdn.pixabay.com/photo/2019/08/19/07/45/dog-4415649_1280.jpg",
+            "animal": "dog"
+        },
+        {
+            "name": "Poli",
+            "description": "Aventurero, bueno, simpático y juguetón",
+            "img":  "https://cdn.pixabay.com/photo/2015/06/19/14/20/cat-814952_1280.jpg",
+            "animal": "cat"
+        },
+        {
+            "name": "Ernest",
+            "description": "Uno de nuestros mayores, 5 años, mix de Golden Retriever, muy bueno y cariñoso",
+            "img":  "https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559_1280.jpg",
+            "animal": "dog"
+        },
+        {
+            "name": "Damian",
+            "description": "Simpático mix de Bulldog inglés. Te enamorará su amor incondicional",
+            "img":  "https://cdn.pixabay.com/photo/2014/12/10/05/50/english-bulldog-562723_1280.jpg",
+            "animal": "dog"
+        },
+        {
+            "name": "Mina",
+            "description": "2 años de amor, amistad y cariño incondicional de nuestra Mina",
+            "img":  "https://cdn.pixabay.com/photo/2017/09/25/13/14/dog-2785077_1280.jpg",
+            "animal": "dog"
+        },
+        {
+            "name": "Cata",
+            "description": "Buenísima gata, de 2 años, simpática y muy buena",
+            "img":  "https://cdn.pixabay.com/photo/2016/01/20/13/05/cat-1151519_1280.jpg",
+            "animal": "cat"
+        }
+]}
+    
